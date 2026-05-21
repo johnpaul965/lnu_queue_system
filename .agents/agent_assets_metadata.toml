@@ -1,0 +1,92 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "6IHDySUcWMcYArfQJ5axz"
+uri = "file://screenshots/app_screenshot.jpg"
+type = "image"
+title = "LNU Registrar App Screenshot"
+
+[[outputs]]
+id = "Za4MOV1iW9GVUjVacgdWJ"
+uri = "file://screenshots/01_login.jpg"
+type = "image"
+title = "01 - Login Screen"
+
+[[outputs]]
+id = "pzzoNLDgr23hSorPAy_8C"
+uri = "file://screenshots/02_register.jpg"
+type = "image"
+title = "02 - Register Screen"
+
+[[outputs]]
+id = "IkF6PJav4Gc_obrK_bRgm"
+uri = "file://screenshots/03_forgot_password.jpg"
+type = "image"
+title = "03 - Forgot Password"
+
+[[outputs]]
+id = "3bj61LU4lX_6gF4qYxqeV"
+uri = "file://screenshots/lnu_app_screenshots.tar.gz"
+type = "unspecified"
+title = "All Screenshots (download)"
+
+[[outputs]]
+id = "t8hR1UMWow6DsFtBob3zj"
+uri = "file://screenshots/09_admin_dashboard.jpg"
+type = "image"
+title = "09 - Admin Dashboard"
+
+[[outputs]]
+id = "OuXN4YYvubDRzDDksUdw3"
+uri = "file://screenshots/10_admin_requests.jpg"
+type = "image"
+title = "10 - Admin Requests"
+
+[[outputs]]
+id = "zJjJLUf_zed1g7UrNPJmP"
+uri = "file://screenshots/11_admin_history.jpg"
+type = "image"
+title = "11 - Admin History"
+
+[[outputs]]
+id = "D6CVahNrnkW5FceDa5-ca"
+uri = "file://screenshots/12_admin_profile.jpg"
+type = "image"
+title = "12 - Admin Profile"
+
+[[outputs]]
+id = "WH6SWq9SM-0t0bUgFcnyd"
+uri = "file://screenshots/lnu_all_screenshots.tar.gz"
+type = "unspecified"
+title = "LNU All Screenshots (12 screens)"
+
+[[outputs]]
+id = "fKtanG0PDlc5V_TOih3ZS"
+uri = "file://screenshots/04_student_dashboard.jpg"
+type = "image"
+title = "04 - Student Dashboard"
+
+[[outputs]]
+id = "iywEsIJzP2zqJcdNvAHxi"
+uri = "file://screenshots/05_new_request.jpg"
+type = "image"
+title = "05 - New Document Request"
+
+[[outputs]]
+id = "40BFeXGP4qRIG64qM_6md"
+uri = "file://screenshots/06_student_history.jpg"
+type = "image"
+title = "06 - My Requests (History)"
+
+[[outputs]]
+id = "PVYjeGszf2pPLSCfy5qWM"
+uri = "file://screenshots/07_notifications.jpg"
+type = "image"
+title = "07 - Notifications"
+
+[[outputs]]
+id = "xqlikZi0FhzgM6eyhB9_G"
+uri = "file://screenshots/08_student_profile.jpg"
+type = "image"
+title = "08 - Student Profile"
